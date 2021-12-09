@@ -5,8 +5,17 @@ html, body {
   min-height: 100%;
   font-family: 'Dosis', Arial, Sans-serif;
 }
-
-h1, h2, h3, h4, h5, h6 {
+h2{
+  font-family: "Playfair Display", serif;
+  color: white;
+  font-size: 15px;
+}
+h1{
+  font-family: "Playfair Display", serif;
+  color: white;
+  font-size: 60px;
+}
+h3, h4, h5, h6 {
   font-family: "Playfair Display", serif;
   color: white;
 }
@@ -154,11 +163,7 @@ header .overlay{
 	
 }
 
-h1 {
-	font-family: 'Dancing Script', cursive;
-	font-size: 80px;
-	margin-bottom: 30px;
-}
+
 
 h3, p {
 	font-family: 'Open Sans', sans-serif;
@@ -1175,3 +1180,4 @@ body {
 }
 
 /*# sourceMappingURL=style.css.map */
+/* cards */
