@@ -1,10 +1,18 @@
 *
+
 /* button */
 h1{
   font-family: "Playfair Display", serif;
   color: white;
   font-size: 20px;
   text-decoration: none;
+}
+.back-menu {
+  text-decoration: none;
+}
+h6{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 26px;
 }
 .button2 {
   position: relative;
